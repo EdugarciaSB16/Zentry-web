@@ -10,6 +10,10 @@
   </div>
 
   <h3 align="center">Zentry Website</h3>
+
+  <p align="center">
+    <a href="https://zentry-web-one.vercel.app/" target="_blank"><strong>🔗 Visit Live Website</strong></a>
+  </p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
