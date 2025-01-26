@@ -101,7 +101,7 @@ const Features = () => {
                         description="A cross-platform metagame app, turning your activities across Web2 and Web3 into a single, immersive experience."
                     />
                 </BentTilt>
-                <div className="grid h-[135vh] grid-cols-2 grid-rows-3 gap-7">
+                <div className="grid h-[135vh] grid-cols-2 gap-7">
                     <BentTilt className="bento-tilt_1 rows-span-1 md:col-span-1 md:row-span-2">
                         <BentoCard
                             src="/videos/feature-2.mp4"
@@ -109,7 +109,7 @@ const Features = () => {
                             description="An anime and gaming-inspired metaverse that provides a unique and immersive experience."
                         />
                     </BentTilt>
-                    <BentTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
+                    <BentTilt className="bento-tilt_1 row-span-1 col-span-2 md:col-span-1">
                         <BentoCard
                             src="/videos/feature-3.mp4"
                             title={
@@ -120,7 +120,7 @@ const Features = () => {
                             description="A gamified social hub, adding a new dimesion of play to social interactions."
                         />
                     </BentTilt>
-                    <BentTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
+                    <BentTilt className="bento-tilt_1 row-span-1 col-span-2 md:col-span-1">
                         <BentoCard
                             src="/videos/feature-4.mp4"
                             title={
