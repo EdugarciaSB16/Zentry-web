@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="/img/gallery-5.webp" alt="Project Banner">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.decrypt.co%2Fwp-content%2Fuploads%2F2024%2F04%2Fzentry-cropped-gID_7.png&f=1&nofb=1&ipt=568fd899f5eab52d5e0a2843aeafc811d7b74f6f62f781e95d78e406c1fa05e1&ipo=images" alt="Project Banner">
   <br />
 
   <div>
@@ -10,6 +10,7 @@
   </div>
 
   <h3 align="center">Zentry Website</h3>
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -82,5 +83,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-</div>
