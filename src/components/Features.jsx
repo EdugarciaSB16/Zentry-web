@@ -2,7 +2,7 @@ import { useState, useRef } from 'react';
 import PropTypes from 'prop-types';
 import { TiLocationArrow } from 'react-icons/ti';
 
-const BentTilt = ({ children, className }) => {
+const BentTilt = ({ children, className = '' }) => {
     const [transformStyle, setTransformStyle] = useState('');
     const itemRef = useRef();
 
@@ -43,10 +43,6 @@ const BentTilt = ({ children, className }) => {
 BentTilt.propTypes = {
     children: PropTypes.node.isRequired,
     className: PropTypes.string,
-};
-
-BentTilt.defaultProps = {
-    className: '',
 };
 
 const BentoCard = ({ src, title, description }) => {
@@ -98,7 +94,7 @@ const Features = () => {
                         src="/videos/feature-1.mp4"
                         title={
                             <>
-                                radi<b>n</b>t
+                                radia<b>n</b>t
                             </>
                         }
                         description="A cross-platform metagame app, turning your activities across Web2 and Web3 into a single, immersive experience."
